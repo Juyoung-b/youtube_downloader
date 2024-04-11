@@ -1,13 +1,16 @@
 # youtube_downloader  
 
-'''
+```  
 pip install pytub3  
 
-'''
+```
 
 
 for audio  
- python main.py -a -v "[YouTube video URL]"
-
-for videos  
-python main.py -v "[YouTube video URL]"
+```
+$ python main.py -a -v "[YouTube video URL]"  
+```
+for videos 
+```
+$ python main.py -v "[YouTube video URL]"
+```
