@@ -3,7 +3,7 @@
 # Requirements
 
 ```  
-pip install pytub3  
+conda install pytub3  
 ```
 
 
