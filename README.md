@@ -2,7 +2,8 @@
 
 # Requirements
 
-```  
+```
+conda install pythube
 conda install pytub3  
 ```
 
