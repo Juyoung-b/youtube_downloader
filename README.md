@@ -3,18 +3,12 @@
 # Requirements
 
 ```
-conda install pythube
-conda install pytub3  
+pip install pytubefix
 ```
-
 
 git clone first
 
 for audio  
 ```
-$ python youdownload.py -a -v "[YouTube video URL]"  
-```
-for videos 
-```
-$ python youdownload.py -v "[YouTube video URL]"
+$ python youdownload.py  "[YouTube video URL]"  
 ```
